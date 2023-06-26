@@ -1,0 +1,97 @@
+/* .pricing{
+    align-items: center;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+.price-text{
+    display: flex;
+    font-size: small;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.price-span{
+    color: #005ae2;
+}
+.price-heading{
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+}.bullet-1{
+    padding-right: 8px;
+    padding-top: 15px;
+    height: 40px;
+}
+.price-plan{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 600px;
+    padding-top: 100px;
+    
+}
+li{
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+.basic-child, .professional-child, .teams-child{
+    font-size: large;
+    padding-top: 50px;
+}
+.blue-check, .white-check{
+    margin-left: 4px;
+    margin-right: 6px;
+}
+.basic-plan, .teams-plan{
+    width: 300px;
+    height: 400px;
+    border-style: solid;
+    margin-top: 3em;
+    padding-left: 24px;
+    padding-top: 20px;
+    border-width: 1px;
+    border-radius: 10px;
+}
+.professional-plan{
+    width: 360px;
+    height: 500px;
+    border-style: solid;
+    background-color: rgb(25, 45, 65);
+    background-color: rgba(27, 48, 70, 1);
+    padding-left: 30px;
+    padding-top: 28px;
+    border-width: 1px;
+    border-radius: 10px;
+    color: white;
+    
+}
+.free, .per-month, .custom-month{
+    font-size: 2em;
+    font-weight: bolder;
+    padding-bottom: 12px;
+    margin-top: 20px;
+}
+.price-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.custom-price{
+    background-color: transparent;
+  border: 1px solid #005ae2;
+  border-radius: 25px;
+  padding: 9px 13px;
+  font-size: 0.6rem;
+  color: #005ae2;
+  margin-right: 4px;
+}
+.select-price{
+    background-color: #005ae2;
+    border: 1px solid #005ae2;
+    border-radius: 25px;
+    padding: 9px 13px;
+    font-size: 0.6rem;
+    color: white;
+} */
